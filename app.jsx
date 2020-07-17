@@ -11,6 +11,7 @@ function App() {
     return(
       <div>
          {SemComponent}
+      <input type="date" value="">
       </div>
     )
 }
